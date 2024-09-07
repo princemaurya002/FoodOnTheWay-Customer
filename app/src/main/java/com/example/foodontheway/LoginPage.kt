@@ -41,7 +41,7 @@ class LoginPage : AppCompatActivity() {
         googleSignInClient = GoogleSignIn.getClient(this, googleSignInOptions)
 
 
-
+//      Login Button Setup
         binding.loginButton.setOnClickListener {
 
             email = binding.email.text.toString().trim()
@@ -54,15 +54,16 @@ class LoginPage : AppCompatActivity() {
 
             }
         }
-            binding.noAccount.setOnClickListener {
-                val intent = Intent(this, SignupPage::class.java)
-                startActivity(intent)
-            }
-            binding.GButton.setOnClickListener {
-                val signInIntent = googleSignInClient.signInIntent
-                launcher.launch(signInIntent)
-            }
+        binding.noAccount.setOnClickListener {
+            val intent = Intent(this, SignupPage::class.java)
+            startActivity(intent)
         }
+        binding.GButton.setOnClickListener {
+            val signInIntent = googleSignInClient.signInIntent
+            launcher.launch(signInIntent)
+        }
+    }
+
     //Launcher for Google Sign In
     private val launcher =
         registerForActivityResult(ActivityResultContracts.StartActivityForResult()) { result ->
@@ -93,7 +94,6 @@ class LoginPage : AppCompatActivity() {
         }
 
 
-
     private fun Login(email: String, password: String) {
         auth.signInWithEmailAndPassword(email, password).addOnCompleteListener { task ->
             if (task.isSuccessful) {
@@ -108,11 +108,12 @@ class LoginPage : AppCompatActivity() {
 
 
     }
-    override fun onStart(){
+
+    override fun onStart() {
         super.onStart()
-        val currentUser=auth.currentUser
-        if(currentUser!=null){
-            startActivity(Intent(this,MainActivity::class.java))
+        val currentUser = auth.currentUser
+        if (currentUser != null) {
+            startActivity(Intent(this, MainActivity::class.java))
             finish()
         }
     }
