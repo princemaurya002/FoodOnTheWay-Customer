@@ -1,0 +1,59 @@
+com.example.foodontheway.app-navigation-fragment-2.7.7-0 C:\Users\hg192\.gradle\caches\transforms-3\0042a39ba5431807fb27aa4eff1b4475\transformed\navigation-fragment-2.7.7\res
+com.example.foodontheway.app-fragment-ktx-1.6.2-1 C:\Users\hg192\.gradle\caches\transforms-3\008236f6756813a31434d483f6cae7c9\transformed\fragment-ktx-1.6.2\res
+com.example.foodontheway.app-core-ktx-1.10.1-2 C:\Users\hg192\.gradle\caches\transforms-3\044956e7c8add491acaabfe2f66a9a59\transformed\core-ktx-1.10.1\res
+com.example.foodontheway.app-emoji2-views-helper-1.2.0-3 C:\Users\hg192\.gradle\caches\transforms-3\047c2ecadf4a3cfdae36aa358c81db60\transformed\emoji2-views-helper-1.2.0\res
+com.example.foodontheway.app-navigation-common-2.7.7-4 C:\Users\hg192\.gradle\caches\transforms-3\0701c8ca4b8bdba05d8092feefdc80a1\transformed\navigation-common-2.7.7\res
+com.example.foodontheway.app-coordinatorlayout-1.1.0-5 C:\Users\hg192\.gradle\caches\transforms-3\1574b9ef2baa93dea6d8cec9b6235bd5\transformed\coordinatorlayout-1.1.0\res
+com.example.foodontheway.app-lifecycle-livedata-core-2.6.2-6 C:\Users\hg192\.gradle\caches\transforms-3\2590a9fc474fa5465c0bd96f2c3e8f0a\transformed\lifecycle-livedata-core-2.6.2\res
+com.example.foodontheway.app-viewpager2-1.0.0-7 C:\Users\hg192\.gradle\caches\transforms-3\2a2473248b4d62341e2a0440977433c8\transformed\viewpager2-1.0.0\res
+com.example.foodontheway.app-lifecycle-livedata-core-ktx-2.6.2-8 C:\Users\hg192\.gradle\caches\transforms-3\2e6903297786ead7844365cad067181c\transformed\lifecycle-livedata-core-ktx-2.6.2\res
+com.example.foodontheway.app-material-1.11.0-9 C:\Users\hg192\.gradle\caches\transforms-3\38e94feb89e18025fcf7c4d01ddea878\transformed\material-1.11.0\res
+com.example.foodontheway.app-slidingpanelayout-1.2.0-10 C:\Users\hg192\.gradle\caches\transforms-3\39678c7d83307793c39a16c216eac0f8\transformed\slidingpanelayout-1.2.0\res
+com.example.foodontheway.app-core-1.10.1-11 C:\Users\hg192\.gradle\caches\transforms-3\3ad4d5248caf0dedb2d6090aef503d86\transformed\core-1.10.1\res
+com.example.foodontheway.app-savedstate-1.2.1-12 C:\Users\hg192\.gradle\caches\transforms-3\489a333517413658a4562f13d9f4c8ee\transformed\savedstate-1.2.1\res
+com.example.foodontheway.app-lifecycle-viewmodel-savedstate-2.6.2-13 C:\Users\hg192\.gradle\caches\transforms-3\50672178988802d41e629020c81c4ee6\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.example.foodontheway.app-annotation-experimental-1.3.0-14 C:\Users\hg192\.gradle\caches\transforms-3\5410e3dfe52f53cf9f0214806891b4b9\transformed\annotation-experimental-1.3.0\res
+com.example.foodontheway.app-browser-1.4.0-15 C:\Users\hg192\.gradle\caches\transforms-3\56b5c117690a9668f5296994ebe1a213\transformed\browser-1.4.0\res
+com.example.foodontheway.app-play-services-auth-21.0.0-16 C:\Users\hg192\.gradle\caches\transforms-3\5e302f1c9d93f5565322d4fbfc0e1ba1\transformed\play-services-auth-21.0.0\res
+com.example.foodontheway.app-fragment-1.6.2-17 C:\Users\hg192\.gradle\caches\transforms-3\5eb053f0d0466b70d0a26bfbc2b2bcf0\transformed\fragment-1.6.2\res
+com.example.foodontheway.app-core-runtime-2.2.0-18 C:\Users\hg192\.gradle\caches\transforms-3\65694123d0f0e21a6496852a9e7679c0\transformed\core-runtime-2.2.0\res
+com.example.foodontheway.app-navigation-fragment-ktx-2.7.7-19 C:\Users\hg192\.gradle\caches\transforms-3\661dccd38fb3b6aaa4b54dcbe67f04ed\transformed\navigation-fragment-ktx-2.7.7\res
+com.example.foodontheway.app-transition-1.4.1-20 C:\Users\hg192\.gradle\caches\transforms-3\697b3168222364c50c5330f262579ee4\transformed\transition-1.4.1\res
+com.example.foodontheway.app-navigation-common-ktx-2.7.7-21 C:\Users\hg192\.gradle\caches\transforms-3\6b8055d12e52c7037d7bf6ce20fb1959\transformed\navigation-common-ktx-2.7.7\res
+com.example.foodontheway.app-navigation-runtime-2.7.7-22 C:\Users\hg192\.gradle\caches\transforms-3\72358117e51fe93677ee34df6c2f6d95\transformed\navigation-runtime-2.7.7\res
+com.example.foodontheway.app-window-1.0.0-23 C:\Users\hg192\.gradle\caches\transforms-3\74c732d21354551fb115b5beb1705aab\transformed\window-1.0.0\res
+com.example.foodontheway.app-glide-4.16.0-24 C:\Users\hg192\.gradle\caches\transforms-3\7dfdf4d5ad1752fc619cbe0e01dd2be6\transformed\glide-4.16.0\res
+com.example.foodontheway.app-play-services-basement-18.3.0-25 C:\Users\hg192\.gradle\caches\transforms-3\80756fd725c5e3f57af526cfbb363252\transformed\play-services-basement-18.3.0\res
+com.example.foodontheway.app-navigation-runtime-ktx-2.7.7-26 C:\Users\hg192\.gradle\caches\transforms-3\81ac7c9e306540cfdad4bf2e83ac7869\transformed\navigation-runtime-ktx-2.7.7\res
+com.example.foodontheway.app-savedstate-ktx-1.2.1-27 C:\Users\hg192\.gradle\caches\transforms-3\84bd67b7c4e3e61ae29da3147b208975\transformed\savedstate-ktx-1.2.1\res
+com.example.foodontheway.app-lifecycle-runtime-ktx-2.6.2-28 C:\Users\hg192\.gradle\caches\transforms-3\8831aa1c541bd5f28a287f0ceb0b5b63\transformed\lifecycle-runtime-ktx-2.6.2\res
+com.example.foodontheway.app-startup-runtime-1.1.1-29 C:\Users\hg192\.gradle\caches\transforms-3\89237ac010404b40ab6454821c134279\transformed\startup-runtime-1.1.1\res
+com.example.foodontheway.app-lifecycle-viewmodel-ktx-2.6.2-30 C:\Users\hg192\.gradle\caches\transforms-3\90cb9e0878f2c995589e148703456755\transformed\lifecycle-viewmodel-ktx-2.6.2\res
+com.example.foodontheway.app-cardview-1.0.0-31 C:\Users\hg192\.gradle\caches\transforms-3\937f1d7c7e6c455a33302596173ae9ba\transformed\cardview-1.0.0\res
+com.example.foodontheway.app-lifecycle-viewmodel-2.6.2-32 C:\Users\hg192\.gradle\caches\transforms-3\9e0837b911c2264aa522a4fbb84bcd1b\transformed\lifecycle-viewmodel-2.6.2\res
+com.example.foodontheway.app-appcompat-1.6.1-33 C:\Users\hg192\.gradle\caches\transforms-3\ab15c48f93ea1d0f3b99140bf8750848\transformed\appcompat-1.6.1\res
+com.example.foodontheway.app-drawerlayout-1.1.1-34 C:\Users\hg192\.gradle\caches\transforms-3\adb242b0ea563095e5361400e4c9ddd3\transformed\drawerlayout-1.1.1\res
+com.example.foodontheway.app-emoji2-1.2.0-35 C:\Users\hg192\.gradle\caches\transforms-3\bb3d38952e5662698bc36fc2b70fc336\transformed\emoji2-1.2.0\res
+com.example.foodontheway.app-navigation-ui-2.7.7-36 C:\Users\hg192\.gradle\caches\transforms-3\c0675ebffa4a8dee3b9f902d86103841\transformed\navigation-ui-2.7.7\res
+com.example.foodontheway.app-play-services-base-18.1.0-37 C:\Users\hg192\.gradle\caches\transforms-3\c631e6927ea9d602dd83d631ad358179\transformed\play-services-base-18.1.0\res
+com.example.foodontheway.app-activity-1.8.0-38 C:\Users\hg192\.gradle\caches\transforms-3\d74452ba2f89cd6f2c2f5cb4b8f4da2e\transformed\activity-1.8.0\res
+com.example.foodontheway.app-appcompat-resources-1.6.1-39 C:\Users\hg192\.gradle\caches\transforms-3\d936f4266d8efbc4d75d851e822d118b\transformed\appcompat-resources-1.6.1\res
+com.example.foodontheway.app-constraintlayout-2.1.4-40 C:\Users\hg192\.gradle\caches\transforms-3\d9d8c7bcb0b0ace6c659cf08931cb34d\transformed\constraintlayout-2.1.4\res
+com.example.foodontheway.app-car-ui-lib-2.6.0-41 C:\Users\hg192\.gradle\caches\transforms-3\da01a3726954e265945ff74f7804edde\transformed\car-ui-lib-2.6.0\res
+com.example.foodontheway.app-lifecycle-process-2.6.2-42 C:\Users\hg192\.gradle\caches\transforms-3\dba62e2bee010a7b5f03592057464832\transformed\lifecycle-process-2.6.2\res
+com.example.foodontheway.app-ImageSlideshow-0.1.2-43 C:\Users\hg192\.gradle\caches\transforms-3\de9aab62df04b353580b395769745f39\transformed\ImageSlideshow-0.1.2\res
+com.example.foodontheway.app-activity-ktx-1.8.0-44 C:\Users\hg192\.gradle\caches\transforms-3\dea82b0128c2a31279c5dcd367602a40\transformed\activity-ktx-1.8.0\res
+com.example.foodontheway.app-preference-1.1.1-45 C:\Users\hg192\.gradle\caches\transforms-3\e27e3899482fae584ca9de008c1d5f72\transformed\preference-1.1.1\res
+com.example.foodontheway.app-firebase-common-20.4.3-46 C:\Users\hg192\.gradle\caches\transforms-3\e7eef8e85ee2d6e401e96e3a0d4ac0e5\transformed\firebase-common-20.4.3\res
+com.example.foodontheway.app-profileinstaller-1.3.0-47 C:\Users\hg192\.gradle\caches\transforms-3\ea915e8c57108c8842a3cf4a590b8198\transformed\profileinstaller-1.3.0\res
+com.example.foodontheway.app-recyclerview-1.2.1-48 C:\Users\hg192\.gradle\caches\transforms-3\f7229fa598b808a7894d82cb3c4c0d51\transformed\recyclerview-1.2.1\res
+com.example.foodontheway.app-navigation-ui-ktx-2.7.7-49 C:\Users\hg192\.gradle\caches\transforms-3\fa922f49a455cb374813d75d46ad7375\transformed\navigation-ui-ktx-2.7.7\res
+com.example.foodontheway.app-lifecycle-runtime-2.6.2-50 C:\Users\hg192\.gradle\caches\transforms-3\fec100cc7921aae1c9896211ed4262db\transformed\lifecycle-runtime-2.6.2\res
+com.example.foodontheway.app-pngs-51 E:\Programming\My Applicatins\FoodOntheWay\app\build\generated\res\pngs\debug
+com.example.foodontheway.app-res-52 E:\Programming\My Applicatins\FoodOntheWay\app\build\generated\res\processDebugGoogleServices
+com.example.foodontheway.app-resValues-53 E:\Programming\My Applicatins\FoodOntheWay\app\build\generated\res\resValues\debug
+com.example.foodontheway.app-packageDebugResources-54 E:\Programming\My Applicatins\FoodOntheWay\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.foodontheway.app-packageDebugResources-55 E:\Programming\My Applicatins\FoodOntheWay\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.foodontheway.app-debug-56 E:\Programming\My Applicatins\FoodOntheWay\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.foodontheway.app-debug-57 E:\Programming\My Applicatins\FoodOntheWay\app\src\debug\res
+com.example.foodontheway.app-main-58 E:\Programming\My Applicatins\FoodOntheWay\app\src\main\res

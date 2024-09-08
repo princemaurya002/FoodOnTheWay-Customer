@@ -1,0 +1,450 @@
+[
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/menu_menu.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/menu/menu.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/layout_activity_signup_page.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/layout/activity_signup_page.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/layout_cart_item.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/layout/cart_item.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_go_home_button.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/go_home_button.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/layout_menu_item.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/layout/menu_item.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/layout_buy_again_item.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/layout/buy_again_item.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_home_02.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/home_02.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/layout_popular_item.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/layout/popular_item.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_m7.jpg.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/m7.jpg"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.foodontheway.app-main-58:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_add_to_cart_button.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/add_to_cart_button.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/layout_activity_login_page.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/layout/activity_login_page.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_google_icon_2.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/google_icon_2.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_call_logo.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/call_logo.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_search_refraction.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/search_refraction.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_edittext.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/edittext.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_sademoji.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/sademoji.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/mipmap-hdpi_mainlogo_round.webp.flat",
+        "source": "com.example.foodontheway.app-main-58:/mipmap-hdpi/mainlogo_round.webp"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_lock_logo.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/lock_logo.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_b2.jpeg.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/b2.jpeg"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.foodontheway.app-main-58:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_backkground_start_1.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/backkground_start_1.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/layout_fragment_search.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.foodontheway.app-main-58:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/mipmap-anydpi-v26_mainlogo_round.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/mipmap-anydpi-v26/mainlogo_round.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_green_button_next.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/green_button_next.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/layout_fragment_notification.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/layout/fragment_notification.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/layout_activity_start.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/layout/activity_start.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_edit_05.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/edit_05.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/layout_fragment_home.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_back_icon.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/back_icon.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_truck.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/truck.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.foodontheway.app-main-58:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_m1.jpg.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/m1.jpg"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/mipmap-mdpi_mainlogo.webp.flat",
+        "source": "com.example.foodontheway.app-main-58:/mipmap-mdpi/mainlogo.webp"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_logo.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/logo.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_m2.jpg.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/m2.jpg"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/xml_backup_rules.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_white_button.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/white_button.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/layout_fragment_profile.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_user.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/user.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_check_circle_broken.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/check_circle_broken.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/layout_notification_item.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/layout/notification_item.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_icon_plus.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/icon_plus.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_list.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/list.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/layout_fragment_cart.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/layout/fragment_cart.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_dollor.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/dollor.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_pendingorder.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/pendingorder.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_m5.jpg.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/m5.jpg"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_log_out_icon.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/log_out_icon.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/layout_activity_details.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/layout/activity_details.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/font_main_font.ttf.flat",
+        "source": "com.example.foodontheway.app-main-58:/font/main_font.ttf"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_book.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/book.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.foodontheway.app-main-58:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/font_shantellsans_medium.ttf.flat",
+        "source": "com.example.foodontheway.app-main-58:/font/shantellsans_medium.ttf"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_waves_of_food.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/waves_of_food.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/navigation_navigation.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/navigation/navigation.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/mipmap-xhdpi_mainlogo_round.webp.flat",
+        "source": "com.example.foodontheway.app-main-58:/mipmap-xhdpi/mainlogo_round.webp"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.foodontheway.app-main-58:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_b4.jpeg.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/b4.jpeg"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_proceed_to_cart.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/proceed_to_cart.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_icon_minus.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/icon_minus.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/mipmap-anydpi-v26_mainlogo.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/mipmap-anydpi-v26/mainlogo.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/layout_activity_choose_location.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/layout/activity_choose_location.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_m4.jpg.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/m4.jpg"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_banner1.jpg.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/banner1.jpg"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_arrow_circle_down.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/arrow_circle_down.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_b3.jpeg.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/b3.jpeg"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/layout_activity_splash_screen.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_facebook_3_1.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/facebook_3_1.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/mipmap-xxxhdpi_mainlogo_round.webp.flat",
+        "source": "com.example.foodontheway.app-main-58:/mipmap-xxxhdpi/mainlogo_round.webp"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/layout_activity_main.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/layout_fragment_menu_bottom_sheet.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/layout/fragment_menu_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_eye_off.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/eye_off.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/mipmap-xxhdpi_mainlogo.webp.flat",
+        "source": "com.example.foodontheway.app-main-58:/mipmap-xxhdpi/mainlogo.webp"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_textviewshape.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/textviewshape.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/mipmap-xhdpi_mainlogo.webp.flat",
+        "source": "com.example.foodontheway.app-main-58:/mipmap-xhdpi/mainlogo.webp"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.foodontheway.app-main-58:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.foodontheway.app-main-58:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/mipmap-hdpi_mainlogo.webp.flat",
+        "source": "com.example.foodontheway.app-main-58:/mipmap-hdpi/mainlogo.webp"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_email_logo.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/email_logo.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_user_plus_01.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/user_plus_01.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_foodapplogo.png.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/foodapplogo.png"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/layout_fragment_congrats_bottom_sheet.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/layout/fragment_congrats_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/layout_fragment_history.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/layout/fragment_history.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_currency_dollar.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/currency_dollar.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.foodontheway.app-main-58:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_order_dispatch_cart.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/order_dispatch_cart.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/mipmap-mdpi_mainlogo_round.webp.flat",
+        "source": "com.example.foodontheway.app-main-58:/mipmap-mdpi/mainlogo_round.webp"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/layout_activity_payout.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/layout/activity_payout.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_icon_home_active.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/icon_home_active.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/mipmap-xxxhdpi_mainlogo.webp.flat",
+        "source": "com.example.foodontheway.app-main-58:/mipmap-xxxhdpi/mainlogo.webp"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/mipmap-xxhdpi_mainlogo_round.webp.flat",
+        "source": "com.example.foodontheway.app-main-58:/mipmap-xxhdpi/mainlogo_round.webp"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_eye.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/eye.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_notification_cart.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/notification_cart.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_right.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/right.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_profile_item_shape.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/profile_item_shape.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_user_01.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/user_01.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_bell_01.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/bell_01.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.foodontheway.app-main-58:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_search_shape.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/search_shape.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_cashondelivery.png.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/cashondelivery.png"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_m3.jpg.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/m3.jpg"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_profile.jpg.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/profile.jpg"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_plus_circle.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/plus_circle.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_trash_03.xml.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/trash_03.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-debug-56:/drawable_m6.jpg.flat",
+        "source": "com.example.foodontheway.app-main-58:/drawable/m6.jpg"
+    }
+]

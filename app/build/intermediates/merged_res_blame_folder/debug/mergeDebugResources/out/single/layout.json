@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "com.example.foodontheway.app-mergeDebugResources-55:/layout/fragment_search.xml",
+        "source": "com.example.foodontheway.app-main-58:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-mergeDebugResources-55:/layout/fragment_home.xml",
+        "source": "com.example.foodontheway.app-main-58:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-mergeDebugResources-55:/layout/activity_signup_page.xml",
+        "source": "com.example.foodontheway.app-main-58:/layout/activity_signup_page.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-mergeDebugResources-55:/layout/activity_details.xml",
+        "source": "com.example.foodontheway.app-main-58:/layout/activity_details.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-mergeDebugResources-55:/layout/activity_main.xml",
+        "source": "com.example.foodontheway.app-main-58:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-mergeDebugResources-55:/layout/activity_start.xml",
+        "source": "com.example.foodontheway.app-main-58:/layout/activity_start.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-mergeDebugResources-55:/layout/popular_item.xml",
+        "source": "com.example.foodontheway.app-main-58:/layout/popular_item.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-mergeDebugResources-55:/layout/activity_choose_location.xml",
+        "source": "com.example.foodontheway.app-main-58:/layout/activity_choose_location.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-mergeDebugResources-55:/layout/activity_splash_screen.xml",
+        "source": "com.example.foodontheway.app-main-58:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-mergeDebugResources-55:/layout/activity_payout.xml",
+        "source": "com.example.foodontheway.app-main-58:/layout/activity_payout.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-mergeDebugResources-55:/layout/fragment_history.xml",
+        "source": "com.example.foodontheway.app-main-58:/layout/fragment_history.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-mergeDebugResources-55:/layout/fragment_cart.xml",
+        "source": "com.example.foodontheway.app-main-58:/layout/fragment_cart.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-mergeDebugResources-55:/layout/fragment_profile.xml",
+        "source": "com.example.foodontheway.app-main-58:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-mergeDebugResources-55:/layout/activity_login_page.xml",
+        "source": "com.example.foodontheway.app-main-58:/layout/activity_login_page.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-mergeDebugResources-55:/layout/fragment_menu_bottom_sheet.xml",
+        "source": "com.example.foodontheway.app-main-58:/layout/fragment_menu_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-mergeDebugResources-55:/layout/menu_item.xml",
+        "source": "com.example.foodontheway.app-main-58:/layout/menu_item.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-mergeDebugResources-55:/layout/buy_again_item.xml",
+        "source": "com.example.foodontheway.app-main-58:/layout/buy_again_item.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-mergeDebugResources-55:/layout/cart_item.xml",
+        "source": "com.example.foodontheway.app-main-58:/layout/cart_item.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-mergeDebugResources-55:/layout/fragment_congrats_bottom_sheet.xml",
+        "source": "com.example.foodontheway.app-main-58:/layout/fragment_congrats_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-mergeDebugResources-55:/layout/fragment_notification.xml",
+        "source": "com.example.foodontheway.app-main-58:/layout/fragment_notification.xml"
+    },
+    {
+        "merged": "com.example.foodontheway.app-mergeDebugResources-55:/layout/notification_item.xml",
+        "source": "com.example.foodontheway.app-main-58:/layout/notification_item.xml"
+    }
+]

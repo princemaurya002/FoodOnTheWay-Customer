@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="endColor">#15BE77</color>
+    <color name="green">#1FC57A</color>
+    <color name="mainlogo_background">#FFFFFF</color>
+    <color name="startColor">#53e88B</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">FoodOntheWay</string>
+    <string name="default_web_client_id" translatable="false">1003885874825-ot7k69embjrm39utkd7kf2s77h8f4hh0.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://waves-of-food-4b45e-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1003885874825</string>
+    <string name="google_api_key" translatable="false">AIzaSyBZi5jRFjWDk3jwD9gqISKifFHRpMMzRpU</string>
+    <string name="google_app_id" translatable="false">1:1003885874825:android:d779dad18c4acb99a68058</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBZi5jRFjWDk3jwD9gqISKifFHRpMMzRpU</string>
+    <string name="google_storage_bucket" translatable="false">waves-of-food-4b45e.appspot.com</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="project_id" translatable="false">waves-of-food-4b45e</string>
+    <style name="Base.Theme.FoodOntheWay" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.FoodOntheWay" parent="Base.Theme.FoodOntheWay"/>
+</resources>

@@ -1,0 +1,6 @@
+com.example.foodontheway.test.app-annotation-experimental-1.3.0-0 C:\Users\hg192\.gradle\caches\transforms-3\5410e3dfe52f53cf9f0214806891b4b9\transformed\annotation-experimental-1.3.0\res
+com.example.foodontheway.test.app-core-1.5.0-1 C:\Users\hg192\.gradle\caches\transforms-3\8ef11bfa767f5d3a769d25464b0e6490\transformed\core-1.5.0\res
+com.example.foodontheway.test.app-androidTest-2 E:\Programming\My Applicatins\FoodOntheWay\app\build\generated\res\resValues\androidTest\debug
+com.example.foodontheway.test.app-mergeDebugAndroidTestResources-3 E:\Programming\My Applicatins\FoodOntheWay\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.foodontheway.test.app-mergeDebugAndroidTestResources-4 E:\Programming\My Applicatins\FoodOntheWay\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.foodontheway.test.app-debugAndroidTest-5 E:\Programming\My Applicatins\FoodOntheWay\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
